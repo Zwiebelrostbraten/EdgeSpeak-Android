@@ -1,0 +1,11 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+.env*
+.cache/
+*.mp3
+*.pcm
+
+!app/src/androidTest/assets/tone.mp3
