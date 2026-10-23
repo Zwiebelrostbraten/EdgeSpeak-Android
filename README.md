@@ -96,7 +96,7 @@ Keine Veröffentlichung, Signing-Secrets oder automatischen Releases.
 Die Schaltfläche „Open-Source-Lizenzen“ zeigt die mitgelieferten vollständigen
 LGPL-/GPL-/Apache-2.0-Lizenzen und Drittanbieterhinweise offline an.
 Vorgesehener Release-Quellstand: https://github.com/Zwiebelrostbraten/EdgeSpeak-Android/tree/v0.1.0
-(noch nicht veröffentlicht). CI-Artefakte enthalten zusätzlich die Lizenzdateien.
+als Vorabversion. CI-Artefakte enthalten zusätzlich die Lizenzdateien.
 
 Siehe [VERIFICATION.md](VERIFICATION.md) für echte Messwerte und noch offene
 Android-Laufzeitprüfungen. LGPL-3.0-or-later; [Lizenz](COPYING),

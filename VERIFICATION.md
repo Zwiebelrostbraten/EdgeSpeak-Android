@@ -1,7 +1,11 @@
 # Verification — 2026-10-23, review blocker fixes
 
-Initial EdgeSpeak 0.1.0 / versionCode 1 remains unpublished and uncommitted.
-No git add/commit/reset/clean, push, remote changes, or GitHub API calls performed.
+EdgeSpeak 0.1.0 / versionCode 1 is published as a debug-signed preview at
+https://github.com/Zwiebelrostbraten/EdgeSpeak-Android/releases/tag/v0.1.0 .
+The checks below describe the local build before publication. The GitHub build
+succeeded after fixing an obsolete SDK-tools CI default. The Android emulator
+workflow was cancelled at the user's explicit request so they can test the app.
+No successful Android or Kindle runtime validation is claimed.
 Product changes were made by Codex in this project only; no private text or secrets used.
 
 ## Executed checks
